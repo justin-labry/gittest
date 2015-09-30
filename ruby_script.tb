@@ -1,2 +1,4 @@
 #!/usr/bin/ruby
-print "this is a ruby script.\n"
+print "this is a ruby script.1\n"
+print "this is a ruby script. 2\n"
+print "this is a ruby script. 3\n"
