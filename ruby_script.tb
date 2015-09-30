@@ -1,1 +1,2 @@
-this is a ruby script.
+#!/usr/bin/ruby
+print "this is a ruby script.\n"
